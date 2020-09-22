@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021PRAC0</string>
+    <string name="Titulo">Programando</string>
+    <string name="Ingnombre">Ingresatunombre</string>
+    <string name="ingresa_tu_nombre">ingresa tu nombre</string>
+    <string name="btnpresiona">presiona para mensaje</string>
+</resources>
